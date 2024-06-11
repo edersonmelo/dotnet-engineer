@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servidor Socket UDP", "Servidor Socket UDP\Servidor Socket UDP.csproj", "{7E3AB185-73AD-4BF8-90A0-D33BCBB8832C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E3AB185-73AD-4BF8-90A0-D33BCBB8832C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E3AB185-73AD-4BF8-90A0-D33BCBB8832C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E3AB185-73AD-4BF8-90A0-D33BCBB8832C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E3AB185-73AD-4BF8-90A0-D33BCBB8832C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B363AA8-1DDB-44B6-80B2-BBB69B69D5E9}
+	EndGlobalSection
+EndGlobal

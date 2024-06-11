@@ -1,0 +1,10 @@
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\bin\Debug\Como criar um servico windows.exe.config
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\bin\Debug\Como criar um servico windows.exe
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\bin\Debug\Como criar um servico windows.pdb
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como criar um servico windows.csproj.AssemblyReference.cache
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como criar um servico windows.csproj.SuggestedBindingRedirects.cache
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como_criar_um_servico_windows.ProjectInstaller.resources
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como criar um servico windows.csproj.GenerateResource.cache
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como criar um servico windows.csproj.CoreCompileInputs.cache
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como criar um servico windows.exe
+C:\Users\CANCI\source\repos\Como criar um servico windows\Como criar um servico windows\obj\Debug\Como criar um servico windows.pdb
